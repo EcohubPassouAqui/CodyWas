@@ -1,13 +1,3 @@
---[[
-    UILib - Biblioteca de Interface para Roblox
-    Desenvolvido por: rip_sheldoohz
-    Versão: 1.0
-    
-    Uso:
-    local UILib = require(game.ServerScriptService.UILib)
-    local window = UILib.Window.new("Meu Painel", "by codywas")
-]]
-
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
